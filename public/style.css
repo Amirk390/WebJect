@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  background-color: lightblue;
+  font-family: 'Arima Madurai', cursive;
+  justify-content: center;
+  color: darkBlue;
+}
+
+.copyRight {
+  position: fixed;
+  font-weight: bold;
+  bottom: 0%;
+}
